@@ -1,7 +1,7 @@
 "use strict"
 
 // Configuration languages, need to create a folder first
-const languages = ['zh-CN']
+const languages = ['zh-CN'] ['en-us']
 
 const handlebars = require('handlebars')
 const marked = require('marked')
